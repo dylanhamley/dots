@@ -11,11 +11,11 @@ neofetch.conf - in ~/.config/neofetch
 conky.conf - in ~/.config/conky
 kitty.conf - in ~/.config/kitty
 
-# Notes on neofetch.conf
+# Notes on neofetch.conf:
 I renamed this file from config.conf to neofetch.conf to make it easier to see what the file is for. Make sure you rename it when you put it in its folder.
 
-# Notes on zshrc
+# Notes on zshrc:
 I had to rename this file from .zshrc to zshrc or github would not let me upload it. Make sure you rename it to .zshrc when you put it in your home folder.
 
-# Other stuff
+# Other stuff:
 Feel free to use, distribute, or do anything with these config files.
